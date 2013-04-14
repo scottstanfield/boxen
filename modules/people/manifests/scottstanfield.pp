@@ -5,7 +5,7 @@ class people::scottstanfield {
 	include iterm2::dev
 	include chrome::dev
 	include zsh
-	include osx::recovery_message { 'If found please call 510-220-8825 for reward.': }
+	# include osx::recovery_message { 'If found please call 510-220-8825 for reward.': }
 
 	# include notational_velocity::nvalt
 	# include sizeup

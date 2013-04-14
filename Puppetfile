@@ -37,4 +37,5 @@ github "sudo",     "1.0.0"
 github "iterm2", "1.0.2"
 github "chrome", "1.1.0"
 github "osx", "1.0.0"
+github "zsh", "1.0.0"
 
