@@ -1,6 +1,6 @@
 class people::scottstanfield {
 
-	notify { 'processing people::scottstanfield' }
+	notify { 'processing people::scottstanfield': }
 
 	include iterm2::dev
 	include chrome::dev
